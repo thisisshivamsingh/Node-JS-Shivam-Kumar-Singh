@@ -1,0 +1,36 @@
+{
+  "assigment": [
+    {
+      "actionCode": "",
+      "actionReasonCode": "",
+      "actualTerminationDate": "",
+      "assignmentCategory": "",
+      "assignmentDFF": [],
+      "assignmentExtraInformation": [],
+      "assignmentId": 1,
+      "assignmentName": "",
+      "assignmentNumber": "",
+      "assignmentProjectedEndDate": "04/08/1998",
+      "assignmentStatus": "",
+      "assignmentStatusTypeId": 499915151,
+      "businessUnitId": 91989181,
+      "creationDate": "02/05/2006-02:36PM",
+      "defaultExpenseAccount": "",
+      "departmentId": 5756869,
+      "effectiveEndDate": "05/08/2007",
+      "effectiveStartDate": "04/08/2007",
+      "empreps": [],
+      "frequency": "",
+      "fullPartTime": "",
+      "gradeId": 17548962,
+      "gradeLadderId": 59512561,
+      "jobId": 15615691,
+      "lastUpdateDate": "07/06/1987-06:52PM",
+      "LegalEntityId": 64849661,
+      "links": [],
+      "locationId": 591915116,
+      "managerAssignmentId": 51911515,
+      "managerId": 1591561
+    }
+  ]
+}

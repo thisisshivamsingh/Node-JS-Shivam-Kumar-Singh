@@ -1,0 +1,4 @@
+{
+  "title": "Write a Nodejs server that serves as a RESTFUL API that takes two parameters in a GET call and produces their sum. http://localhost:3001/product?param1=5&param2=10",
+  "siteUrl": "https://stackblitz.com/edit/node-zcknbj?file=index.js,package.json"
+}

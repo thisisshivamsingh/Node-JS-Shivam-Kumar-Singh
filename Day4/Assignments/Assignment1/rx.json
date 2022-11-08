@@ -1,0 +1,4 @@
+{
+  "title": "Write a Nodejs server that listen on port 3001 and which will read person.json and return a response in JSON format. Person.json content as follows: [{ PersonID:1, PersonName:”Rita”, PersonAddress:”Ahmedabad” }, { PersonID:2, PersonName:”Reema”, PersonAddress:”Calcutta” }]",
+  "siteUrl": "https://stackblitz.com/edit/node-xarhnt?file=index.js,person.json,package.json"
+}

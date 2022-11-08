@@ -1,0 +1,4 @@
+{
+  "title": "Write a Nodejs server that serves as a RESTFUL API that accepts a string as an input name and returns the first vowel character from the string.",
+  "siteUrl": "https://stackblitz.com/edit/node-hfrjc4?file=index.js,package.json"
+}
